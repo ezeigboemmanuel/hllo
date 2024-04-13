@@ -1,0 +1,23 @@
+{
+  "name": "hllo",
+  "version": "1.0.1",
+  "description": "An npm package for saying hello.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezeigboemmanuel/hllo.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "Emmanuel Ezeigbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezeigboemmanuel/hllo/issues"
+  },
+  "homepage": "https://github.com/ezeigboemmanuel/hllo#readme"
+}
